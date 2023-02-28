@@ -1,2 +1,1 @@
-# cohesive-doc
-Comprehensive Cohesive Documentation
+# Cohesive Documentation
