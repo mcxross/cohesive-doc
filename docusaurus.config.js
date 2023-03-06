@@ -10,10 +10,10 @@ const config = {
     favicon: 'img/cohesive.ico',
 
 
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://mcxross.github.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/',
+    baseUrl: '/cohesive-doc/',
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
