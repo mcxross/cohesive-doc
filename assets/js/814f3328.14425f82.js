@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcohesive_doc=self.webpackChunkcohesive_doc||[]).push([[631],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Building Cohesive","permalink":"/cohesive-doc/blog/cohesive"}]}')}}]);

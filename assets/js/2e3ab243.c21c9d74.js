@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcohesive_doc=self.webpackChunkcohesive_doc||[]).push([[999],{7725:e=>{e.exports=JSON.parse('{"permalink":"/cohesive-doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

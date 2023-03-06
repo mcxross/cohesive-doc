@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mcxross.github.io/cohesive-doc/blog</id>
+    <title>Cohesive Blog</title>
+    <updated>2023-02-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mcxross.github.io/cohesive-doc/blog"/>
+    <subtitle>Cohesive Blog</subtitle>
+    <icon>https://mcxross.github.io/cohesive-doc/img/cohesive.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Building Cohesive]]></title>
+        <id>https://mcxross.github.io/cohesive-doc/blog/cohesive</id>
+        <link href="https://mcxross.github.io/cohesive-doc/blog/cohesive"/>
+        <updated>2023-02-28T00:00:00.000Z</updated>
+        <author>
+            <name>Astinz</name>
+            <uri>https://github.com/astinz</uri>
+        </author>
+        <category label="cohesive" term="cohesive"/>
+    </entry>
+</feed>

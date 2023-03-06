@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Cohesive Blog</title>
+        <link>https://mcxross.github.io/cohesive-doc/blog</link>
+        <description>Cohesive Blog</description>
+        <lastBuildDate>Tue, 28 Feb 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Building Cohesive]]></title>
+            <link>https://mcxross.github.io/cohesive-doc/blog/cohesive</link>
+            <guid>https://mcxross.github.io/cohesive-doc/blog/cohesive</guid>
+            <pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+            <category>cohesive</category>
+        </item>
+    </channel>
+</rss>
